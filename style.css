@@ -709,6 +709,12 @@ h2 {
     line-height: 1.4em;
 }
 
+h3 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #333333!important;
+}
 .newText{
     font-size: 22px;
     font-family: "helvetica";
@@ -727,13 +733,6 @@ h2 {
     max-width: 600px;
     margin: auto;
     color: #484848;
-}
-
-h3 {
-    font-size: 15px;
-    text-transform: uppercase;
-    font-weight: 700;
-    color: #333333!important;
 }
 
 .med-width-whitespace {
